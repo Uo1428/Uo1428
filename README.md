@@ -4,7 +4,7 @@
 ## 🧰 Technologies and Tools
 
 <div>
-  <img src="https://skillicons.dev/icons?i=discord,vscode,html,css,js,ts,nodejs,mongodb,express,react,github" alt="Technologies and Tools" />
+  <img src="https://skillicons.dev/icons?i=discord,vscode,nodejs,html,css,js,ts,mongodb,express,react,github" alt="Technologies and Tools" />
 </div>
 
 ## 👨‍💻 Languages & Programming Languages
