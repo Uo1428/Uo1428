@@ -1,4 +1,4 @@
-**Salam!** (\*/ω＼*)
+**Salam!** 👋
 
 **`I code with swag`**
 ## 🧰 Technologies and Tools
