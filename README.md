@@ -11,7 +11,7 @@ Building, practical AI projects that actually ship: automations, chatbots, and v
 ---
 
 ## 👋 About
-- **Name**: Aryan (aka Xenthor)
+- **Name**: Aryan
 - **Role**: AI Expert
 - **Location**: Pakistan 🇵🇰
 - **Age**: 19
